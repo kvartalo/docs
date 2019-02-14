@@ -29,6 +29,9 @@ This document is an ongoing process, that will be improved through collective de
 
 More details in https://github.com/kvartalo/docs/blob/master/TechnicalDetails.md
 
+### Architecture
+![kvartalo-architecture](https://raw.githubusercontent.com/kvartalo/docs/master/kvartalo-architecture.png "kvartalo-architecture") 
+
 ### Components
 - [token](https://github.com/kvartalo/token)
 - [relay](https://github.com/kvartalo/relay)
